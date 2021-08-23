@@ -1,3 +1,3 @@
 # Recriação do layout do Gmail
-Clonar o projeto>
->
+Clonar o projeto:
+>git clone https://github.com/FernandaMakiHirose/layout-gmail.git
