@@ -3,7 +3,7 @@ Clonar o projeto:
 >git clone https://github.com/FernandaMakiHirose/layout-gmail.git
 
 ## Projeto final
-![foto](https://user-images.githubusercontent.com/72028645/130533457-dba0d81a-ad06-43fb-8c38-5f9194184630.png)
+![foto](https://user-images.githubusercontent.com/72028645/130533551-aaa9aa97-f963-42e4-acd5-b62a294cc17d.png)
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
